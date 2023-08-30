@@ -1,4 +1,4 @@
-@media screen and (max-width: 430px) {
+/* @media screen and (max-width: 430px) { */
     
     main {
         display: grid;
@@ -51,7 +51,7 @@
     main :nth-child(11) {
         grid-area: k;
     }
-    
+/* 
 }
 
 @media screen and (max-width: 430px) {
