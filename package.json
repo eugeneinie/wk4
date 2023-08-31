@@ -1,0 +1,15 @@
+{
+  "name": "wk4",
+  "version": "1.0.0",
+  "description": "first class on tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./thursday_wk4.css -o ./friday_wk4.css --watch" 
+  },
+  "author": "\"Ini-ubong Isemin\"",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
